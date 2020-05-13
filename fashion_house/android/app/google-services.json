@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1098970780044",
+    "firebase_url": "https://sliit-ctse-app-db.firebaseio.com",
+    "project_id": "sliit-ctse-app-db",
+    "storage_bucket": "sliit-ctse-app-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098970780044:android:8d02df79978e9b0d3f46a9",
+        "android_client_info": {
+          "package_name": "com.example.fashionhouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098970780044-8qfpvgo77ijtb592g0bp6klcqoc2qbhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwpCwBSaPzfGL3G2CWw1WcpUlOO5AaXPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098970780044-8qfpvgo77ijtb592g0bp6klcqoc2qbhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
